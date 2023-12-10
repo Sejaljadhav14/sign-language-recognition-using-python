@@ -1,1 +1,4 @@
-# sign-language-recognition-using-python
+![image](https://github.com/sejajadhav/sign-language-recognition-using-python/assets/153447968/0de27598-8aa3-436d-af5b-2fa43b6b77e2)# sign-language-recognition-using-python
+     The goal of this project was to build a neural network able to classify which letter of the American Sign Language (ASL) alphabet is being signed, given an image of a signing hand. This project is a first step towards building a possible sign language translator, which can take communications in sign language and translate them into written and oral language. Such a translator would greatly lower the barrier for many deaf and mute individuals to be able to better communicate with others in day to day interactions. The objective of this project was to see if neural networks are able to classify signed ASL letters using simple images of hands taken with a personal device such as a laptop webcam.
+
+I am also uploding created my own dataset for this project which is only available here
